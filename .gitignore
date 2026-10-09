@@ -1,0 +1,5 @@
+*.bin
+models/
+*.wav
+*.log
+.DS_Store
